@@ -1,0 +1,15 @@
+<config>
+{
+  "component": true
+}
+</config>
+
+<template>
+  <view> chenying </view>
+</template>
+
+<script>
+Component({
+
+})
+</script>

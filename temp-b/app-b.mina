@@ -1,0 +1,17 @@
+<config>
+{
+  "window": {
+    "navigationBarBackgroundColor": "#25798a",
+    "backgroundColor": "#25798a"
+  },
+  "pages": [
+    "pages/home/index.mina",
+    "pages/common/index.mina",
+  ]
+}
+</config>
+
+<script>
+App({
+})
+</script>

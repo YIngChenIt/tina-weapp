@@ -1,0 +1,16 @@
+{
+	"miniprogramRoot": "./",
+	"compileType": "miniprogram",
+	"setting": {
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"uglifyFileName": false,
+		"newFeature": true
+	},
+	"appid": "wx780e356d05f625e2",
+	"projectname": "app1",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {}
+}

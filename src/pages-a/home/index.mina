@@ -1,0 +1,26 @@
+<config>
+{
+  "usingComponents": {}
+}
+</config>
+
+<style lang="postcss">
+
+</style>
+
+<template>
+  <view class="main">
+    <view>这是小程序a的页面111</view>
+    <view bindtap="handleTapButton">点击按钮跳转到另外一个页面</view>
+  </view>
+</template>
+
+<script>
+Page({
+    handleTapButton () {
+      wx.navigateTo({
+        url: '/pages/common/index'
+      })
+    },
+})
+</script>
